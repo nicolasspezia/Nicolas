@@ -38,8 +38,7 @@ Este projeto consiste em um portão automático que utiliza um Arduino UNO e um 
   - Sinal -> Pino PWM no Arduino (ex: 9)
 
 ## Código Fonte
-https://github.com/nicolasspezia/Nicolas/blob/main/Projeto_Final_LIA/C%C3%B3digo_Projeto_Final.ino
-
+https://encr.pw/Codigo-para-projeto-final
 ## Instruções de Montagem
 
 1. **Construção do Portão**: Monte a estrutura do portão com o material de sua escolha.
