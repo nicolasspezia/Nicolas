@@ -97,4 +97,4 @@ Este projeto demonstra a viabilidade de um portão automático simples e eficaz 
 Este projeto é de código aberto. Sinta-se à vontade para usar, modificar e compartilhar conforme necessário. Agradecemos se você puder dar créditos ao autor original.
 
 ---
-https://github.com/nicolasspezia/Nicolas/blob/main/Projeto_Final_LIA/Captura%20de%20tela%202024-10-15%20092759.png
+
