@@ -22,9 +22,7 @@ Este projeto consiste em um portão automático que utiliza um Arduino UNO e um 
 
 ## Diagrama de Conexões
 
-```
 <img src="https://github.com/nicolasspezia/Nicolas/blob/main/Projeto_Final_LIA/Captura%20de%20tela%202024-10-15%20092759.png" alt="Descrição" style="transform: rotate(90deg);" width="400"/>
-```
 
 ### Conexões
 
